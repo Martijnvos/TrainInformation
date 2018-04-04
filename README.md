@@ -3,7 +3,7 @@
 This application is made for the FUN2 course at my Fontys education.  
 It revolves around train times between big cities in the Netherlands. 
 As I was challenged to implement something more advanced than the standard curriculum I decided to build this application using the Dijkstra algorithm for finding the shortest train path between the selected cities.  
-I also ended up adding the NS (Dutch railway cooperation) API in order to get up-to-date departure and arrival times amongst other things like the time your journey will take (without train defects :wink:).  
+I also ended up adding the NS (Dutch railway corporation) API in order to get up-to-date departure and arrival times amongst other things like the time your journey will take (without train defects :wink:).  
 
 ### Application interface
 ![TrainInformation screen](images/application_screenshot.png)
